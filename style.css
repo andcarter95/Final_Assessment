@@ -1,0 +1,28 @@
+/* add code here to make your image 300px square */
+body{
+    text-align: center;
+}
+#pet{
+    height: 300px;
+    width: 300px;
+    object-fit: fill;
+    border-radius: 30px;
+}
+/* add code here to change the color and font family of your name/title */
+h1{
+    font: serif;
+    color: rgb(12, 34, 92);
+    margin-left: 60px;
+    font-size: 1.5cm;
+}
+/* Bonus: change the color of your list elements */
+li{
+    font-size: 2ch;
+    color: rgb(23, 122, 65);
+    text-align: left;
+    margin-left: 400px;
+}
+#list{
+    font-size: 3ch;
+    border-style: solid;
+}
